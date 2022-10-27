@@ -1,4 +1,4 @@
-<image src="C:/Users/katya/Desktop/image/DSC_3496.JPG" alt="Екатерина Парфиненко">
+<image src="C:/Users/katya/Desktop/image/DSC_3496.JPG">
 
 # Екатерина Парфиненко
 
