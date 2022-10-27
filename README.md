@@ -1,4 +1,4 @@
-!(C:/Users/katya/Desktop/image/DSC_3496.JPG)
+!(file:///C:/Users/katya/Desktop/image/DSC_3496.JPG)
 
 
 # Екатерина Парфиненко
